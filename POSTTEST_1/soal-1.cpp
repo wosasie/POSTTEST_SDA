@@ -11,6 +11,7 @@ bool isPrime(int a){
 }
 
 
+
 void balik_array(int *ptr, int uk){
     int *awal = ptr;
     int *akhir = ptr + uk - 1;
